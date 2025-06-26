@@ -3,7 +3,7 @@
 ## 📌 About
 
 This GUI monitors CPU usage, RAM usage (with total RAM in bytes), and disk usage (with total disk space in bytes) on your computer.
-The UI is still under development. If you'd like to contribute to this project, feel free to contact me 😊.
+The UI is still under development. If you'd like to contribute on this project, feel free to contact me 😊.
 
 ## 🚀 Getting Started
 
