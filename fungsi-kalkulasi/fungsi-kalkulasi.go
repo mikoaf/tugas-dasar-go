@@ -40,7 +40,7 @@ func (b *bola) keliling() float64 {
 }
 
 func main(){
-	var bangunRuang hitung = &bola{5}
+	var bangunRuang hitung = &bola{3}
 
 	fmt.Printf("Luas: %.2f cm^2\n", bangunRuang.luas())
 	fmt.Printf("Keliling: %.2f cm\n", bangunRuang.keliling())
