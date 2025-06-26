@@ -22,7 +22,7 @@ This checks all Wails dependencies.
 
 ### Before Running Projects
 
-Before you running this project on development mode or production mode, make sure you've run this on frontend:
+Before you running this project on development mode or production mode, make sure you've run this on frontend folder:
 
 ```bash
 npm run build
